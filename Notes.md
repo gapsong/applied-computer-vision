@@ -11,3 +11,6 @@ scp -r ~/Documents/uni/applied-computer-vision/project-wall-e pi@192.168.103:/ho
 
 
 vnc viewer damit können wir im raspebrry eine ui anzeigen lassen
+
+ssh pi@cvpi-13.local
+damit kann man die IP Adresse bekommen
